@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;rpdev&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/t.exe" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/mysqltest.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/twoNum.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/readXlsx" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/hammingDistance.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/cwmw.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/arrayPairSum.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/t" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/foo.xlsx" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/t.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/readXlsx.go" />
+      <root url="file://$PROJECT_DIR$/../../../../golang-workspace/project_01/src/dc.go" />
+      <root url="file://$USER_HOME$/go-get/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go-get/src/github.com" />
+      <root url="file://$USER_HOME$/go-get/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/gorilla/websocket/.git" />
+      <root url="file://$USER_HOME$/go-get/src/gopkg.in/yaml.v2/.git" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/wellington/go-libsass/.git" />
+      <root url="file://$USER_HOME$/go-get/src/gopkg.in/baa.v1/_fixture" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/tealeg/xlsx/.git" />
+      <root url="file://$USER_HOME$/go-get/src/gopkg.in/baa.v1/.git" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/go-sql-driver/mysql/.github" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/go-sql-driver/mysql/.travis" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/cpapidas/Golang-Translator/.git" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/tobyhede/go-underscore/.git" />
+      <root url="file://$USER_HOME$/go-get/src/github.com/go-sql-driver/mysql/.git" />
+    </excluded>
+  </library>
+</component>
